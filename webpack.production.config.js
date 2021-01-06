@@ -4,7 +4,7 @@ var webpack = require('webpack');
 module.exports = {
   entry: {
     app: [
-      './app/js/scripts/app'
+      'xrespond/app/js/scripts/app'
     ],
   },
   devtool: 'source-map',
